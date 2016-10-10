@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/P07_01_對話框★★" />
+            <option value="$PROJECT_DIR$/P07_02_自訂Layout★" />
+            <option value="$PROJECT_DIR$/P07_03_ContextMenu" />
+            <option value="$PROJECT_DIR$/P07_04_OptionsMenu" />
+            <option value="$PROJECT_DIR$/P07_05_LV兩層清單_簡易適配器★" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
